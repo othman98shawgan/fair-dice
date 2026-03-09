@@ -40,7 +40,7 @@ To compile this project, you need the Flutter SDK installed.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/othman98shawgan/fair-dice.git](https://github.com/othman98shawgan/fair-dice.git)
+   git clone https://github.com/othman98shawgan/fair-dice.git
    ```
 2. Install dependencies:
    ```bash
